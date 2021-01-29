@@ -12,8 +12,5 @@ A Seq2Seq network using LSTM to translate sentences from german to french.
 
 **To-do :**
 
-=> Fine-tune parameters
-
-=> Evaluate model on different metrics
-
+=> Add attention mechanism
 => Experiment with other langages
