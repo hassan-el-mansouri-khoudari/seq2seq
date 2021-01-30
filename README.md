@@ -1,4 +1,4 @@
-# seq2seq
+# seq2seq with and without attention
 
 A Seq2Seq network using LSTM to translate sentences from german to french.
 
