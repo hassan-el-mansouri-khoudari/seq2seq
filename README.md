@@ -11,6 +11,7 @@ A Seq2Seq network using LSTM to translate sentences from german to french.
 => Trainable network
 
 **Doing :**
+
 ==> Attention Mechanism
 
 **To-do :**
