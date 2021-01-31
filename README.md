@@ -12,10 +12,10 @@ A Seq2Seq network using LSTM to translate sentences from german to french.
 
 ==> Bleu Score added
 
-**Doing :**
-
 ==> Attention Mechanism
+
+==> Evaluate models using Bleu_score
 
 **To-do :**
 
-=> Experiment with other langages
+=> Experiment with other langages and other tasks
